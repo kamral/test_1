@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="043e71ff-0c1f-49ad-bb19-a056dca6f222" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../blo_post/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/.idea/blog_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/blog_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/blog_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/blog_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/blog_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/blog_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blo_post/blog_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog_project/.idea/blog_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog_project/blog_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog_project/blog_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog_project/blog_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog_project/blog_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog_project/blog_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/blog_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog_project/blog_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog_project/blog_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog_project/blog_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog_project/blog_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog_project/blog_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/blog_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/.idea/mb_project_original.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/mb_project_original/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/mb_project_original/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/mb_project_original/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/mb_project_original/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/mb_project_original/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/posts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/posts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/posts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/posts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/posts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/mb_project_original/posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/test_project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/test_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/test_project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/test_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/test_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/test_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/test_project/.idea/test_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../django_1/test_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/newspaper/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/newspaper/newspaper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/newspaper/newspaper/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/newspaper/newspaper/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/newspaper/newspaper/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/newspaper/newspaper/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../new_3/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/.idea/newspaper_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news/newspaper_project/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/.idea/newspaper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/users/migrations/0001_squashed_0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/.idea/newspaper_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/newspaper_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/newspaper_2/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/newspaper_2/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/newspaper_2/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/newspaper_2/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_2/newspaper_2/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_4/newspaper/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_4/newspaper/newspaper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_4/newspaper/newspaper/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_4/newspaper/newspaper/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_4/newspaper/newspaper/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_4/newspaper/newspaper/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/.idea/newspaper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/newspaper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/newspaper/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/newspaper/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/newspaper/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/newspaper/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../news_5/newspaper/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/newspaper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newspaper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newspaper/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newspaper/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newspaper/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newspaper/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newspaper/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newspaper/newspaper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newspaper/newspaper/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newspaper/newspaper/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newspaper/newspaper/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newspaper/newspaper/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/.idea/test_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/test_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/test_1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/test_1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/test_1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/test_1/test_1/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/.idea/testik.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/pages/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/pages/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/pages/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/pages/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/pages/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/pages/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_2/testik/testik/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cJv3iEnJ6yorYnehVtLpEhWf2m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="043e71ff-0c1f-49ad-bb19-a056dca6f222" name="Default Changelist" comment="" />
+      <created>1590259313247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590259313247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
