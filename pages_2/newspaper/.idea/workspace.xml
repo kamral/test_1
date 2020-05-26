@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef38dbf4-9dff-47a4-b631-cd5e1d24ecf3" name="Default Changelist" comment="">
+    <list default="true" id="0a9c8949-6990-4f7f-81fc-82567bb48c10" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../news_8_6/blog_project/blog/migrations/0001_initial.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../news_8_6/blog_project/blog/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../news_8_6/blog_project/static/css/base.css" afterDir="false" />
@@ -48,56 +48,27 @@
       <change afterPath="$PROJECT_DIR$/../../pages/blog_project/blog_pr/templates/registration/login.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../pages/blog_project/blog_pr/templates/registration/logout.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../pages/blog_project/blog_pr/templates/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/.idea/newspaper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/newspaper/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/newspaper/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/newspaper/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/newspaper/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/newspaper/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/users/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/users/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/users/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/users/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/users/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pages_2/newspaper/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../django_1/mb_project" beforeDir="false" afterPath="$PROJECT_DIR$/../../django_1/mb_project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/article_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/articles/article_delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/article_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/articles/article_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/article_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/articles/article_edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/article_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/articles/article_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/article_new.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/articles/article_new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../news_8/newspaper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../news_8/newspaper/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../news_8_6/blog_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../news_8_6/blog_project/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../news_8_6/blog_project/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../news_8_6/blog_project/blog/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../news_8_6/blog_project/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../news_8_6/blog_project/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../news_8_6/blog_project/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../news_8_6/blog_project/blog/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../news_8_6/blog_project/blog_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../news_8_6/blog_project/blog_project/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../news_8_6/blog_project/blog_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../news_8_6/blog_project/blog_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newspaper/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/newspaper/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1cJwHJ0WXMvufNafzXlREtHt4BN" />
+  <component name="ProjectId" id="1cSV04bJCisgw8At0ReasdrL9Mc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -107,26 +78,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../news_8_2/test_project" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates/articles" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pages_3/newspaper" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ef38dbf4-9dff-47a4-b631-cd5e1d24ecf3" name="Default Changelist" comment="" />
-      <created>1590259914354</created>
+      <changelist id="0a9c8949-6990-4f7f-81fc-82567bb48c10" name="Default Changelist" comment="" />
+      <created>1590521754517</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1590259914354</updated>
+      <updated>1590521754517</updated>
     </task>
     <servers />
   </component>
@@ -134,9 +99,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1250" y="308" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590406885582">
+    <state x="1257" y="308" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590522737406">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="1250" y="308" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1590406885582" />
+    <state x="1257" y="308" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1590522737406" />
   </component>
 </project>
